@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: smartback
+  annotations:
+    github.com/project-slug: alibeknow/smartback
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
